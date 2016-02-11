@@ -1,0 +1,17 @@
+{
+    "name": "molovo/prompt",
+    "description": "A PHP library for producing output in CLI applications.",
+    "keywords": ["prompt"],
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "James Dinsdale",
+        "email": "hi@molovo.co"
+      }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Molovo\\Prompt\\": "src/Molovo/Prompt"
+      }
+    }
+}
